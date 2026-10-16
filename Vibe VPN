@@ -1,0 +1,35 @@
+Vibe VPN is a modern desktop VPN client UI prototype built with Python and Tkinter, featuring an Aurora-inspired design, an interactive globe, worldwide location selection, customizable themes, profile management, subscription plans, and performance optimizations.
+
+Features
+
+🌐 Interactive 3D-style globe and location browser
+
+🎨 Customizable themes, colors, fonts, and app icons
+
+⚡ Optimized UI rendering and page navigation
+
+👤 Profile and subscription plan interfaces
+
+🛡️ Security settings UI
+
+📦 Windows executable packaging with PyInstaller
+
+📄 EULA launcher integration
+
+Technology
+
+Python
+
+Tkinter
+
+Pillow
+
+PyInstaller
+
+Project status
+
+Vibe VPN is currently a UI prototype. Real VPN connectivity, server infrastructure, payment processing, and network protection features require backend integration.
+
+Note: Server locations, ping values, and connection statistics displayed in the interface may be demonstration data.
+
+Built with a focus on privacy, performance, and a polished user experience.
